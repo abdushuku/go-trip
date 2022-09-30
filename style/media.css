@@ -1,0 +1,12 @@
+@media (max-width:1088px) {
+    .about__text {
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+@media (max-width:790px) {
+    .header{
+        max-width: 755px;
+        width: 100%;
+    }
+}
